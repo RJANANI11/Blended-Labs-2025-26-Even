@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: JANANI R
+* **Register Number**: 212224040126
+* **Date of Submission**:26.02.2026
 
 ---
 
@@ -84,14 +84,15 @@ Install and start a web server (Apache HTTPD) on the EC2 instance using user dat
 Create a simple HTML page and verify that it can be accessed from a web browser using the public IP address of the instance.---
 
 ## Workflow (Student Explanation)
+1.Created a VPC with a custom IPv4 CIDR block.
 
-(Write the steps you followed in your own words)
+2.Created a public subnet and associated it with the VPC.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+3.Created and attached an Internet Gateway and updated the route table for internet access.
+
+4.Launched an EC2 instance in the public subnet and installed a web server (Apache).
+
+5.Accessed the web server using the public IP of the instance and verified the output in a browser.
 
 ---
 
@@ -99,21 +100,19 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1918" height="1010" alt="Screenshot 2026-02-20 085036" src="https://github.com/user-attachments/assets/5e076109-1e35-4a2b-97e2-8649e0a15197" />
+<img width="1912" height="981" alt="Screenshot 2026-02-20 085405" src="https://github.com/user-attachments/assets/7f717440-d61f-4ffb-8d90-5237220666d0" />
 
----
+
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="1919" height="994" alt="Screenshot 2026-02-20 092312" src="https://github.com/user-attachments/assets/f5804de9-c51f-421b-af40-103879905b6f" />
+<img width="1919" height="918" alt="Screenshot 2026-02-20 092626" src="https://github.com/user-attachments/assets/a14c512e-c886-4849-9fa7-871bb586139f" />
 
----
 
 ### Screenshot 3: Web Server Output in Browser
-
-(Insert Screenshot Here)
-
----
+<img width="1919" height="1077" alt="Screenshot 2026-02-20 092957" src="https://github.com/user-attachments/assets/725a3405-fec1-4828-b0d2-a88c3a9b62e5" />
 
 ## Result 
 
