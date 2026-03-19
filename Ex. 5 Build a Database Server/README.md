@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: JANANI R
+* **Register Number**: 212224040126
+* **Date of Submission**: 19-03-26
 
 ---
 
@@ -83,12 +83,12 @@ Test the database server by connecting to it locally or remotely and performing 
 ## Workflow (Student Explanation)
 
 (Write the steps you followed in your own words)
+1.Launch an Amazon RDS DB instance with high availability.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+2.Configure the DB instance to permit connections from your web server.
+
+3.Open a web application and interact with your database.
+
 
 ---
 
@@ -96,19 +96,21 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1917" height="1024" alt="Screenshot 2026-03-19 154034" src="https://github.com/user-attachments/assets/00f49b24-5646-4e10-93c3-73cc7c5e9e17" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1908" height="1033" alt="Screenshot 2026-03-19 160825" src="https://github.com/user-attachments/assets/17123b2d-068f-4e7d-8ce3-4f66bea48b11" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1915" height="947" alt="Screenshot 2026-03-19 161211" src="https://github.com/user-attachments/assets/1c82c9d6-3b06-4a88-80ed-fff69e706be6" />
 
 ---
 
