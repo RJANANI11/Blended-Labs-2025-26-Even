@@ -3,7 +3,9 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+Author : JANANI R  
+Reg no : 212224040126   
+Date :20-03-26
 
 ---
 
@@ -67,13 +69,26 @@ Students test the setup by generating traffic and observing automatic scaling an
 ## Workflow (To be filled by Student)
 
 Describe step-by-step how you performed this experiment in your own words.
+1.Create an Amazon Machine Image (AMI) from a running instance.
 
----
+2.Create a load balancer.
+
+4.Create a launch template and an Auto Scaling group.
+
+5.Automatically scale new instances 
+
+6.Create Amazon CloudWatch alarms and monitor performance of your infrastructure.
+
 
 ## Output Screenshots 
+<img width="1917" height="1018" alt="Screenshot 2026-03-20 001559" src="https://github.com/user-attachments/assets/be4a300b-1344-4121-93a2-887d2f53791a" />
+<img width="1918" height="990" alt="Screenshot 2026-03-20 002713" src="https://github.com/user-attachments/assets/2f2028ca-5529-4c18-9eb1-f8c3c0eeb5d8" />
+<img width="1919" height="1133" alt="Screenshot 2026-03-20 004258" src="https://github.com/user-attachments/assets/b0dcf690-c7d1-451b-ab4d-6e5c44f9970f" />
+<img width="1913" height="1012" alt="Screenshot 2026-03-20 005624" src="https://github.com/user-attachments/assets/372009b2-8b9d-46f0-80a0-d90a248c85a9" />
 
 
----
+
+
 
 
 ## Result
