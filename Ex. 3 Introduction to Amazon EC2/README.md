@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: JANANI R
+* **Register Number**: 212224040126
+* **Date of Submission**: 27-02-26
 
 ---
 
@@ -98,11 +98,19 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.Launch a web server with termination protection enabled
+
+2.Monitor Your EC2 instance
+
+3.Modify the security group that your web server is using to allow HTTP access
+
+4.Resize your Amazon EC2 instance to scale and enable stop protection
+
+5.Explore EC2 limits
+
+6.Test stop protection
+
+7.Stop your EC2 instance
 
 ---
 
@@ -110,17 +118,24 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1910" height="965" alt="Screenshot 2026-02-27 083207" src="https://github.com/user-attachments/assets/a360d340-afb4-4ca5-8e3d-a222be495cf1" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1919" height="1029" alt="Screenshot 2026-02-27 084346" src="https://github.com/user-attachments/assets/62784c63-413b-4beb-aa89-7d295ee92087" />
+
+<img width="1917" height="1092" alt="Screenshot 2026-02-27 085134" src="https://github.com/user-attachments/assets/f2c56643-8867-4c3b-b6f1-932460fc5a08" />
+
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
+<img width="1919" height="1026" alt="Screenshot 2026-02-27 092400" src="https://github.com/user-attachments/assets/b859215b-a767-4bdf-8e6c-e3e16a4f5350" />
+
 
 (Insert Screenshot Here)
 
