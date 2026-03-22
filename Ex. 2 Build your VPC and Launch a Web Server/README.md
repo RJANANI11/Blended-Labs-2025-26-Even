@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: JANANI R
+* **Register Number**: 212224040126
+* **Date of Submission**: 26.02.26
 
 ---
 
